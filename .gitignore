@@ -6,6 +6,7 @@
 .settings
 .springBeans
 .sts4-cache
+.gitignore
 
 ### IntelliJ IDEA ###
 .idea
@@ -20,4 +21,3 @@
 /nbdist/
 /.nb-gradle/
 build/
-
